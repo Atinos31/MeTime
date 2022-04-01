@@ -1,6 +1,12 @@
-# [Me Time Minds](https://metimeminds.herokuapp.com/)
+# Me Time Minds By  team 4 Minds.
+# [Live Site](https://metimeminds.herokuapp.com/)
 
-## App preview
+
+This is an app to help people improve their mental health by pledging and journalling changes to help them live a better life.
+
+The app was designed during the Code Instiute January 2022 hackathon.  The 4 Minds team - Richard,  Sandra,  Debbie and Ashley worked together to produce this app over 5 days from January 26th to January 30th 2022.
+
+The app was deployed to heroku and can be accessed by clicking on the title above.   Alternatively here is a link to the [heroku app.](https://metimeminds.herokuapp.com/)
 
 ## Wireframes
 
@@ -14,11 +20,7 @@
 
 ![User profile page](/wireframes/userprofile.png)
 
-This is an app to help people improve their mental health by pledging and journalling changes to help them live a better life.
 
-The app was designed during the Code Instiute January 2022 hackathon.  The 4 Minds team - Richard,  Sandra,  Debbie and Ashley worked together to produce this app over 5 days from January 26th to January 30th 2022.
-
-The app was deployed to heroku and can be accessed by clicking on the title above.   Alternatively here is a link to the [heroku app.](https://metimeminds.herokuapp.com/)
 
 ## UX
 
