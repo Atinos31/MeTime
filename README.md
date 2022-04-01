@@ -10,7 +10,6 @@ The app was deployed to heroku and can be accessed by clicking on the title abov
 
 ## Wireframes
 
-![Homepage](/wireframes/homepage.png)
 
 ![Homepage after user has logged in](/wireframes/afterlogin.png)
 
